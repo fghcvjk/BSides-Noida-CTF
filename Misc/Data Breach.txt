@@ -1,0 +1,11 @@
+Misc/Data Breach
+rey
+0 solves / 500 points
+
+Anonymous has released this https://vimeo.com/user147131520 
+and he want's to make the deal with the individual in a public place
+where the individual lives.
+If we can find the contact info like phone number of nearby cafe then 
+we can warn them and catch him in red hands!
+
+The flag is in BSNoida{phone no}

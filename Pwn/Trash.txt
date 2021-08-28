@@ -1,0 +1,7 @@
+Pwn/Trash
+Bitfriends
+0 solves / 500 points
+
+sometimes, there is good stuff still thrown into trash. Even flags...
+
+Connection : nc 34.71.103.59 49153 chall

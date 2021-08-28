@@ -1,0 +1,11 @@
+Misc/Death Note
+Mr.Grep
+30 solves / 465 points
+
+CTF Box based on Death Note
+
+Note : submit the root flag
+
+chall link
+
+https://tryhackme.com/jr/bsidesnoida2021ctfn6
